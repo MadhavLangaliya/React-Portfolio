@@ -1,30 +1,34 @@
 const languagesDone = [
     {
-        name: 'C++',
-        percentDone: 90
+        name: 'Javascript',
+        percentDone: 80
     },
     {
-        name: 'Python',
-        percentDone: 70
+        name: 'TypeScript',
+        percentDone: 50
     },
     {
-        name: 'React Js',
+        name: 'Angular',
         percentDone: 80
     },
     {
         name: 'Node Js',
-        percentDone: 70
+        percentDone: 90
     },
     {
-        name: 'Dart',
-        percentDone:40
-    }
+        name: 'React Js',
+        percentDone: 40
+    },
+    {
+        name: 'Nest Js',
+        percentDone: 60
+    },
 ]
 const EducationData={
-    collegeName:"Rajkiya Engineering College, Ambedkar Nagar",
-    courseName:"B.Tech in Information Technology",
-    couseStartYear:"2021",
-    courseEndYear:"Present",
+    collegeName:"Sarvajanik College of Engineering & Technology",
+    courseName:"MCA in Information Technology",
+    couseStartYear:"2017",
+    courseEndYear:"2019",
     details:[
         'I joined my college in 2021. Cleared First and Second Year with a good academic performance.',
         'I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, COA, AI etc.',

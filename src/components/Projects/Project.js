@@ -22,7 +22,7 @@ const Projects = (props) => {
                 </section>
                 <section className={styles.projectHeader}>
                     <h1><span style={{ color: nonThemeColor }}>My Recent </span><span style={{ color: uiColor }}>Works</span></h1>
-                    <div>My works makes use of vast variety of latest technology tools. My best experience is to create React projects and deploy them to web applications using Github Pages.</div>
+                    <div>My works makes use of vast variety of latest technology tools. My best experience is to create MEAN/MERN projects and deploy them to web applications using Github Pages.</div>
                 </section>
             </div>
             <ProgrammingSkills />
