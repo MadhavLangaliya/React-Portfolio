@@ -24,7 +24,7 @@ Welcome to my professional portfolio! This repository showcases my skills, proje
 
 Connect with me! Feel free to reach out for collaboration, job opportunities, or just to say hello.
 
-- **Email:** abhi09148299@gmail.com
+- **Email:** langaliyamadhav@gmail.com
 - **LinkedIn:** [https://in.linkedin.com/in/madhav-langaliya-298ba8139/](linkedin-link)
 - **Portfolio:** [https://madhav-langaliya.github.io/Portfolio/](your-portfolio-link)
 

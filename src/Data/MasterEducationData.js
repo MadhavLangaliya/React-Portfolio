@@ -24,16 +24,16 @@ const languagesDone = [
         percentDone: 60
     },
 ]
-const EducationData={
+const MasterEducationData={
     collegeName:"Sarvajanik College of Engineering & Technology",
-    courseName:"MCA in Information Technology",
+    courseName:"MCA",
     couseStartYear:"2017",
     courseEndYear:"2019",
     details:[
-        'I joined my college in 2021. Cleared First and Second Year with a good academic performance.',
+        'I joined my college in 2017. Cleared second and third Year with a good academic performance.',
         'I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, COA, AI etc.',
         ' Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.'
     ],
     codingStatus:languagesDone
 }
-export default EducationData;
+export default MasterEducationData;
